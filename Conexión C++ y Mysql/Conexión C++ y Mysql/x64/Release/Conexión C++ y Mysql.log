@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: El directorio intermedio (x64\Release\) contiene archivos compartidos de otro proyecto (Conexión C++ y Mysql.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  Cliente.cpp
+  ConexionBD.cpp
+  CRUD MYSQL,C++ POO.cpp
+  Persona.cpp
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 167 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  Conexión C++ y Mysql.vcxproj -> C:\Users\LENNYN\Documents\TAREAS UMG\SEMESTRE 3\PROGRAMACION 1\visual_studio  y Mysql\Conexión C++ y Mysql\x64\Release\CRUD MYSQL,C++ POO.exe
